@@ -2,7 +2,7 @@
 npm install
 ## for testcafe tests
 cd ./testCafe
-and run command: `testcafe chrome test.js --skip-js-errors`
+and run command: `node_modules/.bin/testcafe chrome ./testCafe/addTagInTask.js --skip-js-errors`
 
 ## for cypress tests
 
