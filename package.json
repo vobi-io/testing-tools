@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vobi-io/testing-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vobi-io/testing-tools/issues"
+  },
+  "homepage": "https://github.com/vobi-io/testing-tools#readme",
+  "devDependencies": {
+    "cypress": "3.1.0",
+    "testcafe": "0.22.0"
+  }
+}

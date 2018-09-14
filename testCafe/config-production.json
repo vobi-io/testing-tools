@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://app.workep.com",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uIjoiNWI3MjdkZjA4YjdhZjI2OWQxZjNjOTE2IiwiaWF0IjoxNTM0MjMwMDAwfQ.afpdLgYPZu-6PHR3dQW255nd5jDHcGieF2XV3dPVPck",
+  "actualTeamId": "5b727e5c585efd6a4ff0e13c",
+  "version": "0.2.3"
+}
